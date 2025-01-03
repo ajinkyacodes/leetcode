@@ -2,7 +2,7 @@
 > Covering all DSA Topics
 
 ## Topics
-1. Array
+1. Array [:memo:](https://github.com/ajinkyacodes/leetcode/tree/master/Array/src)
 2. Prefix Sum
 3. Two Pointers
 4. Sliding Window
