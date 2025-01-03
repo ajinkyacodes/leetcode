@@ -1,6 +1,6 @@
 package Medium;
 /*
-Link: https://leetcode.com/problems/search-a-2d-matrix/description/?envType=problem-list-v2&envId=array
+Link: https://leetcode.com/problems/search-a-2d-matrix/description/
 #74 - Search a 2D Matrix
  */
 public class Medium74 {
