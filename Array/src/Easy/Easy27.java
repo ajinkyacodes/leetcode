@@ -1,4 +1,4 @@
-package Easy27;
+package Easy;
 /*
 Link: https://leetcode.com/problems/remove-element/description/
 #27 - Remove Element

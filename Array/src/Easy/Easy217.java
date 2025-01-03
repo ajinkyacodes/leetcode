@@ -1,4 +1,4 @@
-package Easy217;
+package Easy;
 /*
 Link: https://leetcode.com/problems/contains-duplicate/description/
 #217 - IsUnique / Contains Duplicate

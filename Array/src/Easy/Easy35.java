@@ -1,4 +1,4 @@
-package Easy35;
+package Easy;
 /*
 Link: https://leetcode.com/problems/search-insert-position/description/
 Search Insert Position - Leetcode 35

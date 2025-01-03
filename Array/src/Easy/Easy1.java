@@ -1,4 +1,4 @@
-package Easy1;
+package Easy;
 /*
 Link: https://leetcode.com/problems/two-sum/description/
 #1 - Two Sum

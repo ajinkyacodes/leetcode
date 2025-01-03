@@ -1,4 +1,4 @@
-package Hard4;
+package Hard;
 /*
 Link: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 #4 - Median of Two Sorted Arrays

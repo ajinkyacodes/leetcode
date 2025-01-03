@@ -1,4 +1,4 @@
-package Easy119;
+package Easy;
 /*
 Link: https://leetcode.com/problems/pascals-triangle-ii/description/
 FAANG Problem : Amazon

@@ -1,4 +1,4 @@
-package Easy88;
+package Easy;
 /*
 Leetcode: https://leetcode.com/problems/merge-sorted-array/description/
 #88 - Merge Sorted Array

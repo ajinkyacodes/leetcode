@@ -1,4 +1,4 @@
-package Easy118;
+package Easy;
 /*
 Link: https://leetcode.com/problems/pascals-triangle/description/
 #118 - Pascal's Triangle

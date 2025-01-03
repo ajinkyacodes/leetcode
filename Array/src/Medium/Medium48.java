@@ -1,4 +1,4 @@
-package Medium48;
+package Medium;
 /*
 Link: https://leetcode.com/problems/rotate-image/description/
 #48 - Rotate Image
