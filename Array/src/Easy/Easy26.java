@@ -1,7 +1,7 @@
 package Easy;
 /*
 Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
-#26 - Remove Duplicates from Sorted Array
+26. Remove Duplicates from Sorted Array
 */
 public class Easy26 {
     public static int removeDuplicates(int[] nums) {

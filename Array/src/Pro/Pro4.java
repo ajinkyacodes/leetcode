@@ -1,10 +1,11 @@
-package Hard;
+package Pro;
 /*
 Link: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 4. Median of Two Sorted Arrays
+FAANG : Google
 */
 import java.util.Arrays;
-public class Hard4 {
+public class Pro4 {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int n1 = nums1.length;
         int n2 = nums2.length;
@@ -53,7 +54,7 @@ public class Hard4 {
     // SC = O(n1 + n2)
 
     public static void main(String[] args) {
-        Hard4 main = new Hard4();
+        Pro4 main = new Pro4();
         int[] nums1 = {1,2};
         int[] nums2 = {3,4};
         System.out.println(main.findMedianSortedArrays(nums1, nums2));

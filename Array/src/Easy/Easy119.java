@@ -2,7 +2,7 @@ package Easy;
 /*
 Link: https://leetcode.com/problems/pascals-triangle-ii/description/
 FAANG Problem : Amazon
-#119 - Pascal's Triangle II
+119. Pascal's Triangle II
  */
 import java.util.ArrayList;
 import java.util.List;

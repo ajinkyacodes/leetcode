@@ -1,7 +1,7 @@
 package Easy;
 /*
 Link: https://leetcode.com/problems/pascals-triangle/description/
-#118 - Pascal's Triangle
+118. Pascal's Triangle
 FAANG Problem : Amazon
  */
 import java.util.ArrayList;

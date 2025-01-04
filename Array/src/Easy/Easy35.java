@@ -1,7 +1,7 @@
 package Easy;
 /*
 Link: https://leetcode.com/problems/search-insert-position/description/
-Search Insert Position - Leetcode 35
+35. Search Insert Position
 */
 public class Easy35 {
     public static int searchInsert(int[] nums, int target) {

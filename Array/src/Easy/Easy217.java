@@ -1,7 +1,7 @@
 package Easy;
 /*
 Link: https://leetcode.com/problems/contains-duplicate/description/
-#217 - IsUnique / Contains Duplicate
+217. IsUnique / Contains Duplicate
  */
 public class Easy217 {
     public static boolean isUnique(int[] intArray) {

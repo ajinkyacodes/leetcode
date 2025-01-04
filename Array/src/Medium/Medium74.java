@@ -1,7 +1,7 @@
 package Medium;
 /*
 Link: https://leetcode.com/problems/search-a-2d-matrix/description/
-#74 - Search a 2D Matrix
+74. Search a 2D Matrix
  */
 public class Medium74 {
     public static boolean searchMatrix(int[][] matrix, int target) {

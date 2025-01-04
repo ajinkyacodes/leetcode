@@ -1,7 +1,7 @@
 package Easy;
 /*
 Leetcode: https://leetcode.com/problems/merge-sorted-array/description/
-#88 - Merge Sorted Array
+88. Merge Sorted Array
 */
 import java.util.Arrays;
 public class Easy88 {

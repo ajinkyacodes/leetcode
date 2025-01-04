@@ -1,7 +1,7 @@
 package Easy;
 /*
 Link: https://leetcode.com/problems/remove-element/description/
-#27 - Remove Element
+27. Remove Element
 */
 public class Easy27 {
     public static int removeElement(int[] nums, int val) {

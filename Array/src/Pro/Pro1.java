@@ -1,9 +1,10 @@
-package Easy;
+package Pro;
 /*
 Link: https://leetcode.com/problems/two-sum/description/
 1. Two Sum
+FAANG : Amazon
 */
-public class Easy1 {
+public class Pro1 {
     public static int[] twoSum(int[] nums, int target) {
         // TODO
         int[] result = new int[2];

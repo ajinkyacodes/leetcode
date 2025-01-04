@@ -1,7 +1,7 @@
 package Easy;
 /*
 Link: https://leetcode.com/problems/plus-one/description/
-#66 - Plus One
+66. Plus One
 */
 public class Easy66 {
     public static int[] plusOne(int[] digits) {

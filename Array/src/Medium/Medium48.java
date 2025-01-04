@@ -1,7 +1,7 @@
 package Medium;
 /*
 Link: https://leetcode.com/problems/rotate-image/description/
-#48 - Rotate Image
+48. Rotate Image
  */
 public class Medium48 {
     public static void rotateMatrix(int[][] matrix) {
