@@ -7,7 +7,7 @@ Date: 6 January 2025
 Solution: https://www.youtube.com/watch?v=zOB9Awj9b_0
 FAANG: Amazon
  */
-public class Medium1769 {
+public class L250106_Medium1769 {
     public static int[] minOperations(String boxes) {
         int n = boxes.length();
         int sum = 0;

@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class G250106 {
+public class G250106_Easy {
     public static List<Integer> sumClosest(int[] arr, int target) {
         List<Integer> result = new ArrayList<>();
         if (arr == null || arr.length < 2) {
@@ -70,7 +70,7 @@ public class G250106 {
         List<Integer> result = new ArrayList<Integer>();
         result = sumClosest(arr, target);
         for(int i=0; i<result.size(); i++){
-            System.out.println(result.get(i)+" ");
+            System.out.println(result.get(i)+" "); // [2, 7]
         }
     }
 }

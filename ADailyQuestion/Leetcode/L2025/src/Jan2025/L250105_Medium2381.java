@@ -5,7 +5,7 @@ Link : https://leetcode.com/problems/shifting-letters-ii/description/
 Topics: Array, String, PrefixSum
 Date: 5 January 2025
  */
-public class Medium2381 {
+public class L250105_Medium2381 {
     public static String shiftingLetters(String s, int[][] shifts) {
         int n = s.length();
         char[] ch = s.toCharArray();

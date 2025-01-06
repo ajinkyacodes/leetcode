@@ -6,7 +6,7 @@ Topics: Array, String, PrefixSum
 Date: 2 January 2025
 Solution: https://www.youtube.com/watch?v=-ZiwmH8dtwM
  */
-public class Medium2559 {
+public class L250102_Medium2559 {
     private static boolean isVowel(char c){
         return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }

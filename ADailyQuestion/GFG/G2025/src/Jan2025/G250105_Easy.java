@@ -8,7 +8,7 @@ Count Pairs whose sum is less than target
 Topics: Array, DSA, Two Pointers
  */
 
-public class G250105 {
+public class G250105_Easy {
     public static int countPairs(int arr[], int target) {
         // Sort Array
         Arrays.sort(arr);

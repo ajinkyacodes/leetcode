@@ -6,7 +6,7 @@ Topics: Array, PrefixSum
 Date: 3 January 2025
 Solution: https://www.youtube.com/watch?v=BbbQqETIYqo
  */
-public class Medium2270 {
+public class L250103_Medium2270 {
     public static int waysToSplitArray(int[] nums) {
         int n = nums.length;
         long totalSum = 0;

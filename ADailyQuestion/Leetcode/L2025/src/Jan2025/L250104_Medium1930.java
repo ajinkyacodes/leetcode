@@ -6,12 +6,11 @@ Topics: HashTable, String
 Date: 4 January 2025
 Solution: https://www.youtube.com/watch?v=0rTkpQC8ytY
  */
-
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
-public class Medium1930 {
+public class L250104_Medium1930 {
     public static int countPalindromicSubsequence(String s) {
         int n = s.length();
 

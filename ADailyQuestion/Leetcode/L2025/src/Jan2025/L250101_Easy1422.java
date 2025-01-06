@@ -6,7 +6,7 @@ Topics: String, PrefixSum
 Date: 1 January 2025
 Solution: https://www.youtube.com/watch?v=1CVKhF53Utw
  */
-public class Easy1422 {
+public class L250101_Easy1422 {
     public static int maxScore(String s) {
         int n = s.length();
         int maxScore = 0;
@@ -23,7 +23,7 @@ public class Easy1422 {
         // Calculating Max Score
         for(int i=0; i<n-1; i++) {
             if(s.charAt(i)=='0'){
-               zeroCount++;
+                zeroCount++;
             } else {
                 oneCount--;
             }
