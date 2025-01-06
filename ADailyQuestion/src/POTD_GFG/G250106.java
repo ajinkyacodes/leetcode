@@ -61,6 +61,8 @@ public class G250106 {
 
         return result;
     }
+    // TC = O(N log N)
+    // SC = O(1)
 
     public static void main(String[] args) {
         int[] arr = {5, 2, 7, 1, 4};
