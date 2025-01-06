@@ -1,4 +1,4 @@
-package POTD_GFG;
+package Jan2025;
 
 import java.util.Arrays;
 

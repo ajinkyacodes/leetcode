@@ -1,4 +1,4 @@
-package POTD_GFG;
+package Jan2025;
 /*
 Link: https://www.geeksforgeeks.org/problems/count-all-triplets-with-given-sum-in-sorted-array/1
 Count all triplets with given sum in sorted array

@@ -3,6 +3,12 @@
 out/
 leetcode.iml
 
-# Module IML Files
-Array/Array.iml
+# A Daily Question IML Files
 ADailyQuestion/ADailyQuestion.iml
+ADailyQuestion/Leetcode/Leetcode.iml
+ADailyQuestion/Leetcode/L2025/L2025.iml
+ADailyQuestion/GFG/GFG.iml
+ADailyQuestion/GFG/G2025/G2025.iml
+
+# All DSA Topics IML Files
+Array/Array.iml

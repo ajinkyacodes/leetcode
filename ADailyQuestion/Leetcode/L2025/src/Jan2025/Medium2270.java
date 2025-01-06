@@ -1,4 +1,4 @@
-package Medium;
+package Jan2025;
 /*
 Link : https://leetcode.com/problems/number-of-ways-to-split-array/description/
 2270. Number of Ways to Split Array
@@ -30,7 +30,7 @@ public class Medium2270 {
     // SC = O(1)
 
     public static void main(String[] args) {
-        int[] nums = {10,4,-8,7};
+        int[] nums = {10,4,-8,7}; // 2
         System.out.println(waysToSplitArray(nums));
     }
 }

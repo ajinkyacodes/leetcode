@@ -1,4 +1,4 @@
-package Medium;
+package Jan2025;
 /*
 Link : https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/
 1930. Unique Length-3 Palindromic Subsequences
@@ -6,7 +6,11 @@ Topics: HashTable, String
 Date: 4 January 2025
 Solution: https://www.youtube.com/watch?v=0rTkpQC8ytY
  */
-import java.util.*;
+
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
 public class Medium1930 {
     public static int countPalindromicSubsequence(String s) {
         int n = s.length();
@@ -40,7 +44,7 @@ public class Medium1930 {
     // SC = O(1)
 
     public static void main(String[] args) {
-        String a = "abcabdb";
+        String a = "aabca"; // 3
         System.out.println(countPalindromicSubsequence(a));
     }
 }
