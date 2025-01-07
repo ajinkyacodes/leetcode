@@ -3,7 +3,6 @@ package Jan2025;
 Link : https://leetcode.com/problems/number-of-ways-to-split-array/description/
 2270. Number of Ways to Split Array
 Topics: Array, PrefixSum
-Date: 3 January 2025
 Solution: https://www.youtube.com/watch?v=BbbQqETIYqo
  */
 public class L250103_Medium2270 {

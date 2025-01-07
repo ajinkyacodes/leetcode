@@ -3,7 +3,6 @@ package Jan2025;
 Link : https://leetcode.com/problems/string-matching-in-an-array/description/
 1408. String Matching in an Array
 Topics: Array, String, String Matching
-Date: 7 January 2025
 Solution: https://www.youtube.com/watch?v=cVHPihfypSY
  */
 import java.util.ArrayList;

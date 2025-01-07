@@ -3,7 +3,6 @@ package Jan2025;
 Link : https://leetcode.com/problems/count-vowel-strings-in-ranges/description/
 2559. Count Vowel Strings in Ranges
 Topics: Array, String, PrefixSum
-Date: 2 January 2025
 Solution: https://www.youtube.com/watch?v=-ZiwmH8dtwM
  */
 public class L250102_Medium2559 {

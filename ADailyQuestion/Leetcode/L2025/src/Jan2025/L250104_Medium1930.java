@@ -3,7 +3,6 @@ package Jan2025;
 Link : https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/
 1930. Unique Length-3 Palindromic Subsequences
 Topics: HashTable, String
-Date: 4 January 2025
 Solution: https://www.youtube.com/watch?v=0rTkpQC8ytY
  */
 import java.util.HashMap;

@@ -3,7 +3,6 @@ package Jan2025;
 Link : https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/
 1422. Maximum Score After Splitting a String
 Topics: String, PrefixSum
-Date: 1 January 2025
 Solution: https://www.youtube.com/watch?v=1CVKhF53Utw
  */
 public class L250101_Easy1422 {
