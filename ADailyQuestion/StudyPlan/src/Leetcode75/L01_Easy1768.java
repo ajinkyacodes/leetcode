@@ -3,7 +3,7 @@ package Leetcode75;
 Link: https://leetcode.com/problems/merge-strings-alternately/description/
 1768. Merge Strings Alternately
  */
-public class L1_Easy1768 {
+public class L01_Easy1768 {
     public static String mergeAlternately(String word1, String word2) {
         StringBuilder merged = new StringBuilder();
         int n1 = word1.length(), n2 = word2.length();
