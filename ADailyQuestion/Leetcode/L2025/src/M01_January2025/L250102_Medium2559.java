@@ -1,4 +1,4 @@
-package M1_Jan2025;
+package M01_January2025;
 /*
 Link : https://leetcode.com/problems/count-vowel-strings-in-ranges/description/
 2559. Count Vowel Strings in Ranges

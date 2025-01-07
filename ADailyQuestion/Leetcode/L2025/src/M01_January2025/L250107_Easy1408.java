@@ -1,4 +1,4 @@
-package M1_Jan2025;
+package M01_January2025;
 /*
 Link : https://leetcode.com/problems/string-matching-in-an-array/description/
 1408. String Matching in an Array

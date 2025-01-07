@@ -1,4 +1,4 @@
-package M1_Jan2025;
+package M01_January2025;
 /*
 Link : https://leetcode.com/problems/number-of-ways-to-split-array/description/
 2270. Number of Ways to Split Array

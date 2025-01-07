@@ -1,4 +1,4 @@
-package M1_Jan2025;
+package M01_January2025;
 /*
 Link: https://www.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array4940/1
 Pair with given sum in a sorted array

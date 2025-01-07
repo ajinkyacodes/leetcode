@@ -1,4 +1,4 @@
-package M1_Jan2025;
+package M01_January2025;
 /*
 Link: https://www.geeksforgeeks.org/problems/count-pairs-whose-sum-is-less-than-target/1
 Count Pairs whose sum is less than target

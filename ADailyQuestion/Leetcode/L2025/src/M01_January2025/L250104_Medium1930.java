@@ -1,4 +1,4 @@
-package M1_Jan2025;
+package M01_January2025;
 /*
 Link : https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/
 1930. Unique Length-3 Palindromic Subsequences
