@@ -1,6 +1,8 @@
 package Easy;
 /*
 Link: https://leetcode.com/problems/merge-strings-alternately/description/
+1768. Merge Strings Alternately
+Topics: String, Two Pointers
 */
 public class Easy1768 {
     public static String mergeAlternately(String word1, String word2) {
