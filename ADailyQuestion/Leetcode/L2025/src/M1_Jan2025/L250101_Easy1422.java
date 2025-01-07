@@ -1,4 +1,4 @@
-package Jan2025;
+package M1_Jan2025;
 /*
 Link : https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/
 1422. Maximum Score After Splitting a String

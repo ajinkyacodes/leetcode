@@ -1,10 +1,10 @@
-package Jan2025;
+package M1_Jan2025;
 /*
 Link: https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1
 Subarrays with sum K
 Topics: Array, Hash
  */
-import java.util.*;
+import java.util.HashMap;
 public class G250102_Medium {
     public static int countSubarrays(int arr[], int k) {
         HashMap<Integer, Integer> map = new HashMap<>();

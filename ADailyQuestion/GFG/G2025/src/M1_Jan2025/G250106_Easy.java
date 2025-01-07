@@ -1,14 +1,12 @@
-package Jan2025;
+package M1_Jan2025;
 /*
 Link: https://www.geeksforgeeks.org/problems/pair-in-array-whose-sum-is-closest-to-x1124/1
 Sum Pair closest to target
 Topics: Array, DSA, Two Pointers
  */
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
 public class G250106_Easy {
     public static List<Integer> sumClosest(int[] arr, int target) {
         List<Integer> result = new ArrayList<>();

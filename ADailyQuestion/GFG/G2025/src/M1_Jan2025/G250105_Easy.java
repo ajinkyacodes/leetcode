@@ -1,13 +1,10 @@
-package Jan2025;
-
-import java.util.Arrays;
-
+package M1_Jan2025;
 /*
 Link: https://www.geeksforgeeks.org/problems/count-pairs-whose-sum-is-less-than-target/1
 Count Pairs whose sum is less than target
 Topics: Array, DSA, Two Pointers
  */
-
+import java.util.Arrays;
 public class G250105_Easy {
     public static int countPairs(int arr[], int target) {
         // Sort Array

@@ -1,4 +1,4 @@
-package Jan2025;
+package M1_Jan2025;
 /*
 Link : https://leetcode.com/problems/shifting-letters-ii/description/
 2381. Shifting Letters II

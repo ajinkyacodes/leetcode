@@ -1,4 +1,4 @@
-package Jan2025;
+package M1_Jan2025;
 /*
 Link: https://www.geeksforgeeks.org/problems/print-anagrams-together/1
 Print Anagrams Together

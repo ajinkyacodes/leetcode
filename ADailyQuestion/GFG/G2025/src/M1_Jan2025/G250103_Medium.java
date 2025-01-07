@@ -1,10 +1,11 @@
-package Jan2025;
+package M1_Jan2025;
 /*
 Link: https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1
 Count Subarrays with given XOR
 Topics: Array, Map
  */
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 public class G250103_Medium {
     public static long subarrayXor(int arr[], int k) {
         // Map to store the frequency of prefix XORs
