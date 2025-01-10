@@ -11,6 +11,12 @@ ADailyQuestion/GFG/GFG.iml
 ADailyQuestion/GFG/G2025/G2025.iml
 ADailyQuestion/StudyPlan/StudyPlan.iml
 
+# Programming Contests
+Contest/Contest.iml
+Contest/GFGWeekly/GFGWeekly.iml
+Contest/LeetcodeBiweekly/LeetcodeBiweekly.iml
+Contest/LeetcodeWeekly/LeetcodeWeekly.iml
+
 # All DSA Topics IML Files
 Array/Array.iml
 String/String.iml
