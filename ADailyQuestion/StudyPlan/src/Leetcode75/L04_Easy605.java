@@ -2,7 +2,7 @@ package Leetcode75;
 /*
 Link: https://leetcode.com/problems/can-place-flowers/description/
 605. Can Place Flowers
-Topics, Array, Greedy
+Topics: Array, Greedy
  */
 public class L04_Easy605 {
     public static boolean canPlaceFlowers(int[] flowerbed, int n) {
