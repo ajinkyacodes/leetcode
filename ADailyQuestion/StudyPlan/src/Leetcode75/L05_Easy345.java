@@ -33,6 +33,8 @@ public class L05_Easy345 {
         }
         return String.valueOf(ch);
     }
+    // TC = O(N)
+    // SC = O(N)
 
     public static void main(String[] args) {
         String s = "IceCreAm";
