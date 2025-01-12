@@ -3,10 +3,10 @@
 
 ## Topics
 1. Array [:memo:](https://github.com/ajinkyacodes/leetcode/tree/master/Array/src)
-2. Prefix Sum
+2. Prefix Sum [:memo:](https://github.com/ajinkyacodes/leetcode/tree/master/PrefixSum/src)
 3. Two Pointers
 4. Sliding Window
-5. Matrix
+5. Matrix [:memo:](https://github.com/ajinkyacodes/leetcode/tree/master/Matrix/src)
 6. Suffix Array
 7. Sorting
 8. Merge Sort
