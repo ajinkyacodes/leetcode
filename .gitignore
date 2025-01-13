@@ -2,6 +2,10 @@
 .idea
 out/
 leetcode.iml
+notes.txt
+
+# Lets Crack DSA
+DSA200/DSA200.iml
 
 # A Daily Question IML Files
 ADailyQuestion/ADailyQuestion.iml
