@@ -7,6 +7,31 @@ Topic: Array, Greedy
 public class L08_Medium334 {
     public static boolean increasingTriplet(int[] nums) {
         int n = nums.length;
+        int first = Integer.MAX_VALUE, second = Integer.MAX_VALUE;
+        for(int i=0; i<n; i++) {
+            if(nums[i]<=first){
+                first = nums[i];
+            } else if(nums[i]<=second) {
+                second = nums[i];
+            } else {
+                return true;
+            }
+        }
+        return false;
+    }
+    // TC = O(n)
+    // SC = O(1)
+
+    public static void main(String[] args) {
+        System.out.println(increasingTriplet(new int[]{1,2,3,4,5})); // true
+        System.out.println(increasingTriplet(new int[]{5,4,3,2,1})); // false
+        System.out.println(increasingTriplet(new int[]{2,1,5,0,4,6})); // true
+        System.out.println(increasingTriplet(new int[]{5,1,6})); // false
+        System.out.println(increasingTriplet(new int[]{1,2,2147483647})); // true
+    }
+
+    public static boolean increasingTripletLessOptimised(int[] nums) {
+        int n = nums.length;
 
         // If nums array is less than 3 then return false
         if(n<3) return false;
@@ -38,12 +63,4 @@ public class L08_Medium334 {
     }
     // TC = O(n)
     // SC = O(n)
-
-    public static void main(String[] args) {
-        System.out.println(increasingTriplet(new int[]{1,2,3,4,5})); // true
-        System.out.println(increasingTriplet(new int[]{5,4,3,2,1})); // false
-        System.out.println(increasingTriplet(new int[]{2,1,5,0,4,6})); // true
-        System.out.println(increasingTriplet(new int[]{5,1,6})); // false
-        System.out.println(increasingTriplet(new int[]{1,2,2147483647})); // true
-    }
 }
