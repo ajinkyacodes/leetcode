@@ -49,6 +49,8 @@ public class Medium15 {
 
         return result;
     }
+    // TC = O(n^2
+    // SC = O(1)
 
     public static void main(String[] args) {
         List<List<Integer>> result = threeSum(new int[]{-1,0,1,2,-1,-4}); // [[-1,-1,2],[-1,0,1]]
