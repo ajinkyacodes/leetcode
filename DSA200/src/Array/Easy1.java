@@ -1,10 +1,10 @@
-package Easy;
+package Array;
 /*
 Link: https://leetcode.com/problems/two-sum/description/
 1. Two Sum
 Topics: Array, Hash Table
 */
-import java.util.*;
+import java.util.HashMap;
 public class Easy1 {
     public static int[] twoSum(int[] nums, int target) {
         int n = nums.length;
