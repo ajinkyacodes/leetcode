@@ -14,7 +14,14 @@
 10. Bit Manipulation [:memo:](https://github.com/ajinkyacodes/leetcode/tree/master/DSA200/src/BitManipulation)
 
 
-## Group 2: Sorting Algorithms
+## Group 2: Hashing
+
+1. Hash Table
+2. Hash Function
+3. Rolling Hash
+
+
+## Group 3: Sorting Algorithms
 
 1. Sorting
 2. Merge Sort
@@ -24,7 +31,7 @@
 6. Radix Sort
 
 
-## Group 3: Linked List, Stack, Heap, Queue & Recursion
+## Group 4: Linked List, Stack, Heap, Queue & Recursion
 
 1. Linked List
 2. Doubly Linked List
@@ -36,7 +43,7 @@
 8. Recursion
 
 
-## Group 4: Trees
+## Group 5: Trees
 
 1. Binary Tree
 2. Binary Index Tree
@@ -44,13 +51,6 @@
 4. Segment Tree
 5. Minimum Spanning Tree
 6. Trie
-
-
-## Group 5: Hashing
-
-1. Hash Table
-2. Hash Function
-3. Rolling Hash
 
 
 ## Group 6: Searching
@@ -68,4 +68,4 @@
 1. Divide and Conquer
 2. Dynamic Programming
 3. Memoization
-4. Backtracking
+4. Backtracking 
