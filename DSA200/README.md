@@ -1,4 +1,4 @@
-# DSA 200 (All Topics)
+# Let's Crack DSA (All Topics) 
 
 ## Group 1: Beginner Friendly Topics
 
@@ -31,7 +31,7 @@
 6. Radix Sort
 
 
-## Group 4: Linked List, Stack, Heap, Queue & Recursion
+## Group 4: Linked List, Stack, Queue, Heap & Recursion
 
 1. Linked List
 2. Doubly Linked List
@@ -53,7 +53,7 @@
 6. Trie
 
 
-## Group 6: Searching
+## Group 6: Searching Algorithms 
 
 1. Binary Search
 2. Breadth-First Search
@@ -63,7 +63,7 @@
 6. Greedy Algorithm
 
 
-## Group 7: Advanced DSA
+## Group 7: Advanced Algorithms 
 
 1. Divide and Conquer
 2. Dynamic Programming
