@@ -4,7 +4,7 @@ Link: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/des
 1431. Kids With the Greatest Number of Candies
  */
 import java.util.*;
-public class L03_Easy1431 {
+public class L03_Easy1431_Kids_With_the_Greatest_Number_of_Candies {
     public static List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         List<Boolean> result = new ArrayList<>();
         int n = candies.length;

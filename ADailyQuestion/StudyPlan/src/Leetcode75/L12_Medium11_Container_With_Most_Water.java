@@ -4,8 +4,8 @@ Link: https://leetcode.com/problems/container-with-most-water/
 11. Container With Most Water
 Topics: Array, Two Pointers, Greedy
  */
-import java.util.*;
-public class L12_Medium11 {
+
+public class L12_Medium11_Container_With_Most_Water {
     public static int maxArea(int[] height) {
         int maxWater = 0;
         int n = height.length;

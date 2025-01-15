@@ -4,7 +4,7 @@ Link: https://leetcode.com/problems/product-of-array-except-self/description/
 238. Product of Array Except Self
 Topics: Array, Prefix Sum
  */
-public class L07_Medium238 {
+public class L07_Medium238_Product_of_Array_Except_Self {
     public static int[] productExceptSelf(int[] nums) {
         int n = nums.length;
         int[] answer = new int[n];

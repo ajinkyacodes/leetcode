@@ -3,8 +3,8 @@ package Leetcode75;
 Link: https://leetcode.com/problems/string-compression/description/
 443. String Compression
  */
-import java.util.*;
-public class L09_Medium443 {
+
+public class L09_Medium443_String_Compression {
     public static int compress(char[] chars) {
         int index = 0; // Position to write in the original array
 
@@ -43,6 +43,5 @@ public class L09_Medium443 {
         System.out.println(compress(new char[]{'a', 'a', 'b', 'b', 'c', 'c', 'c'})); // Return 6, ["a","2","b","2","c","3"]
         System.out.println(compress(new char[]{'a'})); // Return 1, ["a"]
         System.out.println(compress(new char[]{'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b'})); // Return 4, ["a","b","1","2"]
-
     }
 }

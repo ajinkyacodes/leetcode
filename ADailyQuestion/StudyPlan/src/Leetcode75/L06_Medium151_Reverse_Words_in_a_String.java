@@ -5,7 +5,7 @@ Link: https://leetcode.com/problems/reverse-words-in-a-string/description/
 Topics: Two Pointer, String
  */
 import java.util.*;
-public class L06_Medium151 {
+public class L06_Medium151_Reverse_Words_in_a_String {
     public static String reverseWords(String s) {
         // Trim leading and trailing spaces and split the string by spaces
         String[] words = s.trim().split("\\s+");

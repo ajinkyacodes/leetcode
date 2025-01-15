@@ -4,7 +4,7 @@ Link: https://leetcode.com/problems/move-zeroes/description/
 283. Move Zeroes
 Topics:
  */
-public class L10_Easy283 {
+public class L10_Easy283_Move_Zeroes {
     public static void moveZeroes(int[] nums) {
         int n = nums.length;
         int j=0;

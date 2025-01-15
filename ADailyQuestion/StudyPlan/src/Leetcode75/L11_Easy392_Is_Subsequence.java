@@ -4,7 +4,7 @@ Link: https://leetcode.com/problems/is-subsequence/description/
 392. Is Subsequence
 Topics: Two Pointers, String, Dynamic Programming
  */
-public class L11_Easy392 {
+public class L11_Easy392_Is_Subsequence {
     public static boolean isSubsequence(String s, String t) {
         int si=0;
         if(s.length()<1) return true;

@@ -4,7 +4,7 @@ Link: https://leetcode.com/problems/can-place-flowers/description/
 605. Can Place Flowers
 Topics: Array, Greedy
  */
-public class L04_Easy605 {
+public class L04_Easy605_Can_Place_Flowers {
     public static boolean canPlaceFlowers(int[] flowerbed, int n) {
         if(n==0) return true;
         int len = flowerbed.length;

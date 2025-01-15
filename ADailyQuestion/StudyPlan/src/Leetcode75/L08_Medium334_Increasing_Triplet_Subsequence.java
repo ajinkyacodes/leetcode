@@ -4,7 +4,7 @@ Link: https://leetcode.com/problems/increasing-triplet-subsequence/description/
 334. Increasing Triplet Subsequence
 Topic: Array, Greedy
  */
-public class L08_Medium334 {
+public class L08_Medium334_Increasing_Triplet_Subsequence {
     public static boolean increasingTriplet(int[] nums) {
         int n = nums.length;
         int first = Integer.MAX_VALUE, second = Integer.MAX_VALUE;

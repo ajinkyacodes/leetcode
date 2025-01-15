@@ -4,7 +4,7 @@ Link: https://leetcode.com/problems/reverse-vowels-of-a-string/description/
 345. Reverse Vowels of a String
 Topics: Two Pointers, String
  */
-public class L05_Easy345 {
+public class L05_Easy345_ReverseVowels_of_a_String {
     // Check if the character is vowel
     public static boolean isVowel(char c){
         if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u' || c=='A' || c=='E' || c=='I' || c=='O' || c=='U') {

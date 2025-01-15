@@ -3,7 +3,7 @@ package Leetcode75;
 Link: https://leetcode.com/problems/greatest-common-divisor-of-strings/description/
 1071. Greatest Common Divisor of Strings
  */
-public class L02_Easy1071 {
+public class L02_Easy1071_Greatest_Common_Divisor_of_Strings {
     // Calculating GCD
     public static int gcd(int a, int b) {
         while(b%a !=0) {

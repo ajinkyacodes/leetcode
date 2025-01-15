@@ -5,7 +5,7 @@ Link: https://leetcode.com/problems/max-number-of-k-sum-pairs/solutions/
 Topics: Array, Hash Table, Two Pointers, Sorting
  */
 import java.util.*;
-public class L13_Medium1679 {
+public class L13_Medium1679_Max_Number_of_K_Sum_Pairs {
     public static int maxOperations(int[] nums, int k) {
         int n = nums.length;
         int left = 0;
