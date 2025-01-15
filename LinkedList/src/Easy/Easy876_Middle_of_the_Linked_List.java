@@ -14,7 +14,7 @@ class ListNode {
     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 }
 
-public class Easy876 {
+public class Easy876_Middle_of_the_Linked_List {
     public static ListNode middleNode(ListNode head) {
         // Two-pointer approach
         ListNode slow = head;
