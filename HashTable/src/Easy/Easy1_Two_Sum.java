@@ -1,13 +1,11 @@
-package Pro;
-
-import java.util.HashMap;
-
+package Easy;
 /*
 Link: https://leetcode.com/problems/two-sum/description/
 1. Two Sum
-FAANG : Amazon
+Topics: Array, Hash Table
 */
-public class Pro1_Two_Sum {
+import java.util.HashMap;
+public class Easy1_Two_Sum {
     public static int[] twoSum(int[] nums, int target) {
         int n = nums.length;
         HashMap<Integer, Integer> map = new HashMap<>();
@@ -21,7 +19,7 @@ public class Pro1_Two_Sum {
         return new int[]{};
     }
     // TC = O(n)
-    // SC = O(n)
+    // SC = O(1)
 
     public static void main(String[] args) {
         int[] nums  = {2,7,11,15};

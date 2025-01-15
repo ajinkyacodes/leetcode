@@ -9,7 +9,6 @@ public class Easy1_Two_Sum {
     public static int[] twoSum(int[] nums, int target) {
         int n = nums.length;
         HashMap<Integer, Integer> map = new HashMap<>();
-        int[] result = new int[2];
         for(int i=0; i<n; i++) {
             int balance = target - nums[i];
             if(map.containsKey(balance)) {
@@ -20,7 +19,7 @@ public class Easy1_Two_Sum {
         return new int[]{};
     }
     // TC = O(n)
-    // SC = O(1)
+    // SC = O(n)
 
     public static void main(String[] args) {
         int[] nums  = {2,7,11,15};

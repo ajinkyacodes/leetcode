@@ -26,6 +26,7 @@ Contest/LeetcodeWeekly/LeetcodeWeekly.iml
 # All DSA Topics IML Files
 Array/Array.iml
 String/String.iml
+StringMatching/StringMatching.iml
 PrefixSum/PrefixSum.iml
 Matrix/Matrix.iml
 Math/Math.iml
