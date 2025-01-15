@@ -4,8 +4,8 @@ Link: https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1
 Equilibrium Point
 Topics: Prefix Sum
  */
-import java.util.*;
-public class G250114_Easy {
+
+public class G250114_Easy_Equilibrium_Point {
     // Function to find equilibrium point in the array.
     public static int findEquilibrium(int arr[]) {
         int n = arr.length;

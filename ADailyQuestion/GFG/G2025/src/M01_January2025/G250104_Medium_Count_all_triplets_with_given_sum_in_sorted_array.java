@@ -4,7 +4,7 @@ Link: https://www.geeksforgeeks.org/problems/count-all-triplets-with-given-sum-i
 Count all triplets with given sum in sorted array
 Topics: Two Pointers, Hash
  */
-public class G250104_Medium {
+public class G250104_Medium_Count_all_triplets_with_given_sum_in_sorted_array {
     public static int countTriplets(int[] arr, int target) {
         int n = arr.length;
         int count = 0;

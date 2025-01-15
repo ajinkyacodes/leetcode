@@ -4,7 +4,7 @@ Link: https://www.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-arr
 Pair with given sum in a sorted array
 Topics: Array, DSA, Two Pointers
  */
-public class G250107_Easy {
+public class G250107_Easy_Pair_with_given_sum_in_a_sorted_array {
     public static int countPairs(int arr[], int target) {
         int count = 0;
         int n = arr.length;

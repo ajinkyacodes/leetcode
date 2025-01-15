@@ -6,7 +6,7 @@ Topics: Array, Sliding Window, Hash
  */
 import java.util.ArrayList;
 import java.util.HashMap;
-public class G250110_Easy {
+public class G250110_Easy_Count_distinct_elements_in_every_window {
     public static ArrayList<Integer> countDistinct(int arr[], int k) {
         int n = arr.length;
         ArrayList<Integer> result = new ArrayList<>();

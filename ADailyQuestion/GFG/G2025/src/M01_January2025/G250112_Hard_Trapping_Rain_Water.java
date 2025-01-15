@@ -4,7 +4,7 @@ Link: https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1
 Trapping Rain Water
 Topics: Arrays, DP, Stack, Two Pointers
  */
-public class G250112_Hard {
+public class G250112_Hard_Trapping_Rain_Water {
     public static int maxWater(int arr[]) {
         int n = arr.length;
         int waterTrapped = 0;

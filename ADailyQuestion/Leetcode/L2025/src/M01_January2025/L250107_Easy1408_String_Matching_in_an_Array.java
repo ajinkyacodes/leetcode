@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
-public class L250107_Easy1408 {
+public class L250107_Easy1408_String_Matching_in_an_Array {
 
     public static void precomputeLPS(List<String> words, List<int[]> lps) {
         for (String word : words) {

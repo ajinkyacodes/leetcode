@@ -5,7 +5,7 @@ Link : https://leetcode.com/problems/number-of-ways-to-split-array/description/
 Topics: Array, PrefixSum
 Solution: https://www.youtube.com/watch?v=BbbQqETIYqo
  */
-public class L250103_Medium2270 {
+public class L250103_Medium2270_Number_of_Ways_to_Split_Array {
     public static int waysToSplitArray(int[] nums) {
         int n = nums.length;
         long totalSum = 0;

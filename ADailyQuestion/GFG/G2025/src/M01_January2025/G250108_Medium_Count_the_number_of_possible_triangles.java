@@ -5,7 +5,7 @@ Count the number of possible triangles
 Topics: Array, Sorting
  */
 import java.util.Arrays;
-public class G250108_Medium {
+public class G250108_Medium_Count_the_number_of_possible_triangles {
     // Function to count the number of possible triangles.
     public static int countTriangles(int arr[]) {
         Arrays.sort(arr); // Sort the array to simplify the process

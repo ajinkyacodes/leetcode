@@ -5,7 +5,7 @@ Longest substring with distinct characters
 Topics: Strings
  */
 import java.util.HashSet;
-public class G250111_Easy {
+public class G250111_Easy_Longest_substring_with_distinct_characters {
     public static int longestUniqueSubstr(String s) {
         int n = s.length();
         int left = 0;

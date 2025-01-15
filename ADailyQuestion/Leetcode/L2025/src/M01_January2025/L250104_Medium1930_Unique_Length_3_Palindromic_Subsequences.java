@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
-public class L250104_Medium1930 {
+public class L250104_Medium1930_Unique_Length_3_Palindromic_Subsequences {
     public static int countPalindromicSubsequence(String s) {
         int n = s.length();
 

@@ -6,7 +6,7 @@ Topics: String, Hash
 Solution: https://www.youtube.com/watch?v=EpztAdNy-wc
  */
 import java.util.*;
-public class G250101_Medium {
+public class G250101_Medium_Print_Anagrams_Together {
     public static ArrayList<ArrayList<String>> anagrams(String[] arr) {
         Map<String, List<String>> map = new HashMap();
 
@@ -33,6 +33,6 @@ public class G250101_Medium {
     public static void main(String[] args) {
         String[] strs = {"act", "god", "cat", "dog", "tac"};
         ArrayList<ArrayList<String>> result = anagrams(strs);
-        System.out.println("Groups of anagrams: " + result);
+        System.out.println("Groups of anagrams: " + result); // [["act", "cat", "tac"], ["god", "dog"]]
     }
 }

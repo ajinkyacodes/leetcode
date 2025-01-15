@@ -3,7 +3,7 @@ package M01_January2025;
 Link: https://www.geeksforgeeks.org/problems/container-with-most-water0535/1
 Container With Most Water
  */
-public class G250113_Medium {
+public class G250113_Medium_Container_With_Most_Water {
     public static int maxWater(int arr[]) {
         int maxArea = 0;
         int left = 0;

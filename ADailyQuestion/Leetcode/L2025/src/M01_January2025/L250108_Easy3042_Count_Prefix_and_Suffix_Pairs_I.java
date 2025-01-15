@@ -4,7 +4,7 @@ Link : https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description
 3042. Count Prefix and Suffix Pairs I
 Topics: Array, String, String Matching, Trie, Hash Function
  */
-public class L250108_Easy3042 {
+public class L250108_Easy3042_Count_Prefix_and_Suffix_Pairs_I {
     public static boolean isPrefixAndSuffix(String str1, String str2) {
         int n1 = str1.length();
         int n2 = str2.length();

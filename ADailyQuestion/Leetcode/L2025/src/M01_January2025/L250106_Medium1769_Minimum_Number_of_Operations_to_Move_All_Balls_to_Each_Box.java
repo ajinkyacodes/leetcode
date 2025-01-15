@@ -6,7 +6,7 @@ Topics: Array, String, PrefixSum
 Solution: https://www.youtube.com/watch?v=zOB9Awj9b_0
 FAANG: Amazon
  */
-public class L250106_Medium1769 {
+public class L250106_Medium1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box {
     public static int[] minOperations(String boxes) {
         int n = boxes.length();
         int sum = 0;

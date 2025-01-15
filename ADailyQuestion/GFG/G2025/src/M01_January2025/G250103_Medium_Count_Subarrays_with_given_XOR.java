@@ -6,7 +6,7 @@ Topics: Array, Map
  */
 import java.util.HashMap;
 import java.util.Map;
-public class G250103_Medium {
+public class G250103_Medium_Count_Subarrays_with_given_XOR {
     public static long subarrayXor(int arr[], int k) {
         // Map to store the frequency of prefix XORs
         Map<Integer, Integer> xorMap = new HashMap<>();

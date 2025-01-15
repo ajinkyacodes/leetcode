@@ -4,7 +4,7 @@ Link : https://leetcode.com/problems/counting-words-with-a-given-prefix/descript
 2185. Counting Words With a Given Prefix
 Topics: Array, String, String Matching
  */
-public class L250109_Easy2185 {
+public class L250109_Easy2185_Counting_Words_With_a_Given_Prefix {
     public static int prefixCount(String[] words, String pref) {
         int n = words.length;
         int count = 0;

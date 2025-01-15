@@ -5,7 +5,7 @@ Subarrays with sum K
 Topics: Array, Hash
  */
 import java.util.HashMap;
-public class G250102_Medium {
+public class G250102_Medium_Subarrays_with_sum_K {
     public static int countSubarrays(int arr[], int k) {
         HashMap<Integer, Integer> map = new HashMap<>();
         map.put(0, 1);

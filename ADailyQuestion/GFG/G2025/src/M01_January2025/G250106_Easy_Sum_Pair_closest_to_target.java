@@ -7,7 +7,7 @@ Topics: Array, DSA, Two Pointers
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-public class G250106_Easy {
+public class G250106_Easy_Sum_Pair_closest_to_target {
     public static List<Integer> sumClosest(int[] arr, int target) {
         List<Integer> result = new ArrayList<>();
         if (arr == null || arr.length < 2) {

@@ -5,7 +5,7 @@ Count Pairs whose sum is less than target
 Topics: Array, DSA, Two Pointers
  */
 import java.util.Arrays;
-public class G250105_Easy {
+public class G250105_Easy_Count_Pairs_whose_sum_is_less_than_target {
     public static int countPairs(int arr[], int target) {
         // Sort Array
         Arrays.sort(arr);

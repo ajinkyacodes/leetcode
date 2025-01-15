@@ -5,7 +5,7 @@ Link : https://leetcode.com/problems/maximum-score-after-splitting-a-string/desc
 Topics: String, PrefixSum
 Solution: https://www.youtube.com/watch?v=1CVKhF53Utw
  */
-public class L250101_Easy1422 {
+public class L250101_Easy1422_Maximum_Score_After_Splitting_a_String {
     public static int maxScore(String s) {
         int n = s.length();
         int maxScore = 0;

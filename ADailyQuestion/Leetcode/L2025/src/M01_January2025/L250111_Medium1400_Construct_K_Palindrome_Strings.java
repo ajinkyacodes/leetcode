@@ -5,7 +5,7 @@ Link : https://leetcode.com/problems/construct-k-palindrome-strings/description/
 Topics: Hash Table, String, Greedy, Counting
  */
 import java.util.HashMap;
-public class L250111_Medium1400 {
+public class L250111_Medium1400_Construct_K_Palindrome_Strings {
     public static boolean canConstruct(String s, int k) {
         int n = s.length();
         int odd = 0;
@@ -22,8 +22,8 @@ public class L250111_Medium1400 {
             if(i%2 !=0) odd++;
         }
 
-        System.out.println(map);
-        System.out.println("odd = "+odd+" and k = "+k);
+        //System.out.println(map);
+        //System.out.println("odd = "+odd+" and k = "+k);
 
         return odd<=k;
     }

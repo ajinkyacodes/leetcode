@@ -5,7 +5,7 @@ Indexes of Subarray Sum
 Topics: Array, Searching, Prefix Sum Sliding Window
  */
 import java.util.ArrayList;
-public class G250109_Medium {
+public class G250109_Medium_Indexes_of_Subarray_Sum {
     public static ArrayList<Integer> subarraySum(int[] arr, int target) {
         int n = arr.length;
         int left = 0, sum = 0;
@@ -38,7 +38,7 @@ public class G250109_Medium {
         int target = 12;
         ArrayList<Integer> result = subarraySum(arr, target);
         for(int i=0; i<result.size(); i++) {
-            System.out.print(result.get(i)+" ");
+            System.out.print(result.get(i)+" "); // [2, 4]
         }
     }
 }

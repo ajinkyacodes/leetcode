@@ -4,7 +4,7 @@ Link: https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/d
 2116. Check if a Parentheses String Can Be Valid
 Topics: String, Stack, Greedy
  */
-public class L250112_Medium2116 {
+public class L250112_Medium2116_Check_if_a_Parentheses_String_Can_Be_Valid {
     public static boolean canBeValid(String s, String locked) {
         int n = s.length();
         // If length of the string is odd, it's impossible to make it valid

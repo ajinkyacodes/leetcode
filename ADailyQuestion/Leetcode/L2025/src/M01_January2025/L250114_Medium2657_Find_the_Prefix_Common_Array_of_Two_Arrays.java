@@ -3,7 +3,7 @@ package M01_January2025;
 Link: https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/
 2657. Find the Prefix Common Array of Two Arrays
  */
-public class L250114_Medium2657 {
+public class L250114_Medium2657_Find_the_Prefix_Common_Array_of_Two_Arrays {
     public static int[] findThePrefixCommonArray(int[] A, int[] B) {
         int n = A.length;
         int[] C = new int[n];

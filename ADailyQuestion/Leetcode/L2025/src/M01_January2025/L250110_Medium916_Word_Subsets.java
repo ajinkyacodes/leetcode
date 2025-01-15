@@ -6,7 +6,7 @@ Topics: Array, Hash Table, String
  */
 import java.util.ArrayList;
 import java.util.List;
-public class L250110_Medium916 {
+public class L250110_Medium916_Word_Subsets {
 
     // Checking word2 is a subset of word1
     public static boolean checkSubset(String word1, String word2) {

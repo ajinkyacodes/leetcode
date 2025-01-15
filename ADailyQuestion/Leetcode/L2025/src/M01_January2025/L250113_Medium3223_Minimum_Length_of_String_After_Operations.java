@@ -4,7 +4,7 @@ Link: https://leetcode.com/problems/minimum-length-of-string-after-operations/de
 3223. Minimum Length of String After Operations
 Topics: Hash Table, String, Counting
  */
-public class L250113_Medium3223 {
+public class L250113_Medium3223_Minimum_Length_of_String_After_Operations {
     public static int minimumLength(String s) {
         int[] f = new int[26]; // Frequency array for lowercase English letters
         int count = 0; // Tracks the number of removable characters

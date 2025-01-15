@@ -5,7 +5,7 @@ Link : https://leetcode.com/problems/count-vowel-strings-in-ranges/description/
 Topics: Array, String, PrefixSum
 Solution: https://www.youtube.com/watch?v=-ZiwmH8dtwM
  */
-public class L250102_Medium2559 {
+public class L250102_Medium2559_Count_Vowel_Strings_in_Ranges {
     private static boolean isVowel(char c){
         return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }
