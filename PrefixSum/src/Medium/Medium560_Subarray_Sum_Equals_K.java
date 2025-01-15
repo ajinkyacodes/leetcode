@@ -2,11 +2,11 @@ package Medium;
 /*
 Link: https://leetcode.com/problems/subarray-sum-equals-k/description/
 560. Subarray Sum Equals K
-Topics: Prefix Sum, Hash Table
-Solution Explained = https://www.youtube.com/watch?v=eUNDQ6SAJcE
+Topics: Array, Hash Table, Prefix Sum
+Solution Explained: https://www.youtube.com/watch?v=eUNDQ6SAJcE
  */
-import java.util.Map;
 import java.util.HashMap;
+import java.util.Map;
 public class Medium560_Subarray_Sum_Equals_K {
     public static int subarraySum(int[] nums, int k) {
         Map<Integer, Integer> map = new HashMap<>();
