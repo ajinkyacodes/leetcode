@@ -7,6 +7,7 @@ todolist.txt
 
 # Lets Crack DSA
 DSA200/DSA200.iml
+DSAExamples/DSAExamples.iml
 
 # A Daily Question IML Files
 ADailyQuestion/ADailyQuestion.iml
@@ -29,3 +30,4 @@ PrefixSum/PrefixSum.iml
 Matrix/Matrix.iml
 Math/Math.iml
 BitManipulation/BitManipulation.iml
+SlidingWindow/SlidingWindow.iml
