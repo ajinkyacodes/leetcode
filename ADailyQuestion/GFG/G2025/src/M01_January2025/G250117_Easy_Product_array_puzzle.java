@@ -1,12 +1,10 @@
 package M01_January2025;
-
-import java.util.Arrays;
-
 /*
 Link: https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1
 Product array puzzle
 Topics: Prefix Sum
  */
+import java.util.Arrays;
 public class G250117_Easy_Product_array_puzzle {
     public static int[] productExceptSelf(int arr[]) {
         int n = arr.length;
