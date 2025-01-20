@@ -11,7 +11,10 @@ class Node {
     int value;
     int data;
     Node next;
+
     Node(int value) {
+        next = null;
+        data = value;
         this.value = value;
     }
 }
