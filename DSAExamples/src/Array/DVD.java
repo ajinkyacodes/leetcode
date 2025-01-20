@@ -1,4 +1,8 @@
 package Array;
+/*
+Link: https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3236/
+ */
+
 import java.util.Arrays;
 
 // A simple definition for a DVD.

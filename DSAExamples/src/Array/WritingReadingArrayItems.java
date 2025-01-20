@@ -1,5 +1,7 @@
 package Array;
-
+/*
+Link: https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3294/
+ */
 public class WritingReadingArrayItems {
     public static void main(String[] args) {
         int[] squareNumbers = new int[10];
