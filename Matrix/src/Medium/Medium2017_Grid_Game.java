@@ -3,6 +3,7 @@ package Medium;
 Link: https://leetcode.com/problems/grid-game/description/
 2017. Grid Game
 Topics: Array, Matrix, Prefix Sum
+Similar Solution Explained = https://youtu.be/qA7yyNI2xKM
  */
 public class Medium2017_Grid_Game {
     public static long gridGame(int[][] grid) {
