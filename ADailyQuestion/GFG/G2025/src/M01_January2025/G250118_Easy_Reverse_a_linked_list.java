@@ -11,11 +11,13 @@ class Node {
     int value;
     int data;
     Node next;
+    Node random;
 
     Node(int value) {
         next = null;
         data = value;
         this.value = value;
+        random = null;
     }
 }
 
