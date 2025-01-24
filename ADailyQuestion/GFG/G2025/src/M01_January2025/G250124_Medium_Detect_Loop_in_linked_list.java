@@ -35,6 +35,8 @@ public class G250124_Medium_Detect_Loop_in_linked_list {
 
         return false; // No cycle found
     }
+    // Time = O(n)
+    // Space = O(1)
 
     // Helper method to create a linked list with a loop for testing
     public static Node createLinkedList(int[] values, int pos) {
