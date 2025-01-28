@@ -5,7 +5,7 @@ Permutations of a String
 Topic: String, Recursion, Backtracking
  */
 import java.util.*;
-public class L250128_Medium_Permutations_of_a_String {
+public class G250128_Medium_Permutations_of_a_String {
     public static ArrayList<String> findPermutation(String s) {
         ArrayList<String> res = new ArrayList<>();
         char[] chars = s.toCharArray();
@@ -14,6 +14,8 @@ public class L250128_Medium_Permutations_of_a_String {
         while (next(chars));
         return res;
     }
+    // Time = O(n log n + n * n)
+    // Space = O(n * n!)
 
     private static boolean next(char[] c) {
         int i = c.length - 2, j = c.length - 1;

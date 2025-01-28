@@ -62,6 +62,8 @@ public class L250128_Medium2658_Maximum_Number_of_Fish_in_a_Grid {
         // Return the maximum fish count found
         return maxFishCount;
     }
+    // Time = O(R * C) where R is the number of rows and C is the number of columns in the grid.
+    // Space = O(R * C)
 
     public static void main(String[] args) {
         int[][] grid1 = {{0,2,1,0},{4,0,0,3},{1,0,0,4},{0,3,2,0}};
