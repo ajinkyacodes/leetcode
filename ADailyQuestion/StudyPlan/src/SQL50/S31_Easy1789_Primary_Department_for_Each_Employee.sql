@@ -1,3 +1,6 @@
+# Link: https://leetcode.com/problems/triangle-judgement/
+# 610. Triangle Judgement
+
 # Write your MySQL query statement below
 -- Retrieving employees with primary_flag set to 'Y'
 SELECT employee_id, department_id

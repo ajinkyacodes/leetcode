@@ -1,3 +1,6 @@
+# Link: https://leetcode.com/problems/consecutive-numbers/
+# 180. Consecutive Numbers
+
 # Write your MySQL query statement below
 SELECT distinct
     i1.num as ConsecutiveNums
