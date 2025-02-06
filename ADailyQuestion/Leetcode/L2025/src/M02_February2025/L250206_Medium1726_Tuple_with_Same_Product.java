@@ -1,6 +1,6 @@
 package M02_February2025;
 /*
-Link:
+Link: https://leetcode.com/problems/tuple-with-same-product/description/
 1726. Tuple with Same Product
 Topic: Hash Table
  */
