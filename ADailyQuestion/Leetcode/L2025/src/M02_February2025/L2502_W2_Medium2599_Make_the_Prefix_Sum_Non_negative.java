@@ -5,7 +5,7 @@ Link:
 Topic: Greedy
  */
 import java.util.*;
-public class L2502_W1_Medium2599_Make_the_Prefix_Sum_Non_negative {
+public class L2502_W2_Medium2599_Make_the_Prefix_Sum_Non_negative {
     public static int makePrefSumNonNegative(int[] nums) {
         int operations = 0;
         long prefixSum = 0;
