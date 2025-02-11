@@ -2,6 +2,7 @@ package M02_February2025;
 /*
 Link: https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/
 1910. Remove All Occurrences of a Substring
+Topic: Stack
  */
 import java.util.*;
 public class L250211_Medium1910_Remove_All_Occurrences_of_a_Substring {
