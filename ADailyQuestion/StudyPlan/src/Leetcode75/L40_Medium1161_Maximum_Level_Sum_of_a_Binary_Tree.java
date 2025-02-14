@@ -5,7 +5,7 @@ Link: https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/descripti
 Topic: Breadth First Search
  */
 import java.util.*;
-public class L39_Medium1161_Maximum_Level_Sum_of_a_Binary_Tree {
+public class L40_Medium1161_Maximum_Level_Sum_of_a_Binary_Tree {
     public static int maxLevelSum(TreeNode root) {
         int maxSum = Integer.MIN_VALUE;
         int ans = 0, level = 0;

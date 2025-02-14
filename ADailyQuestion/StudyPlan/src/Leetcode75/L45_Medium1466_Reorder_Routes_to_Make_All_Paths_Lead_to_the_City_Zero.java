@@ -5,7 +5,7 @@ Link: https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the
 Topic: DFS
  */
 import java.util.*;
-public class L43_Medium1466_Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero {
+public class L45_Medium1466_Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero {
     int count = 0;
 
     public void dfs(int node, int parent, Map<Integer, List<List<Integer>>> adj) {

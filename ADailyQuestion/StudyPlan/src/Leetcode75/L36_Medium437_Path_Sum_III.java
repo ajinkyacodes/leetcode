@@ -15,7 +15,7 @@ package Leetcode75;
  * }
  */
 import java.util.*;
-public class L35_Medium437_Path_Sum_III {
+public class L36_Medium437_Path_Sum_III {
     int count = 0;
     int k;
     HashMap<Long, Integer> h = new HashMap();

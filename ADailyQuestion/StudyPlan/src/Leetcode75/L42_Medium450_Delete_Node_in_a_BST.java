@@ -1,11 +1,10 @@
-package SQL50;
+package Leetcode75;
 /*
 Link: https://leetcode.com/problems/delete-node-in-a-bst/description/
 450. Delete Node in a BST
  */
-import java.util.*;
 
- // Definition for a binary tree node.
+// Definition for a binary tree node.
 class TreeNode {
      int val;
      TreeNode left;

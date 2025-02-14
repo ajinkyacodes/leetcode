@@ -5,7 +5,7 @@ Link: https://leetcode.com/problems/keys-and-rooms/description/
 Topic: DFS
  */
 import java.util.*;
-public class L41_Medium841_Keys_and_Rooms {
+public class L43_Medium841_Keys_and_Rooms {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         boolean[] seen = new boolean[rooms.size()];
         seen[0] = true;

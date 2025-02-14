@@ -22,7 +22,7 @@ class TreeNode {
   }
 }
 
-public class L33_Easy872_Leaf_Similar_Trees {
+public class L34_Easy872_Leaf_Similar_Trees {
     public static boolean leafSimilar(TreeNode root1, TreeNode root2) {
         List<Integer> leaves1 = new ArrayList();
         List<Integer> leaves2 = new ArrayList();

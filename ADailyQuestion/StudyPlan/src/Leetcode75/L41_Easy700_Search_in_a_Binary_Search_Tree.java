@@ -19,7 +19,7 @@ Topic: BST
  *     }
  * }
  */
-public class L40_Easy700_Search_in_a_Binary_Search_Tree {
+public class L41_Easy700_Search_in_a_Binary_Search_Tree {
     public TreeNode searchBST(TreeNode root, int val) {
         if (root == null || val == root.val) return root;
 

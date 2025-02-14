@@ -4,7 +4,7 @@ Link: https://leetcode.com/problems/evaluate-division/description/
 399. Evaluate Division
  */
 import java.util.*;
-public class L44_Medium399_Evaluate_Division {
+public class L46_Medium399_Evaluate_Division {
     public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries) {
 
         HashMap<String, HashMap<String, Double>> graph = new HashMap<>();

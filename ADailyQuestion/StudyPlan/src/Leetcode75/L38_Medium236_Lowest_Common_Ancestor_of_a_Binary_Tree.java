@@ -14,10 +14,10 @@ Topic: Binary Tree, DFS
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class L37_Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree {
+public class L38_Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree {
     private TreeNode ans;
 
-    public L37_Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree() {
+    public L38_Medium236_Lowest_Common_Ancestor_of_a_Binary_Tree() {
         // Variable to store LCA node.
         this.ans = null;
     }

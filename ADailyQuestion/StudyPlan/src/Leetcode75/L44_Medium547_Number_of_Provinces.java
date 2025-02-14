@@ -4,7 +4,7 @@ Link: https://leetcode.com/problems/number-of-provinces/description/
 547. Number of Provinces
 Topic: Depth First Search
  */
-public class L42_Medium547_Number_of_Provinces {
+public class L44_Medium547_Number_of_Provinces {
     public void dfs(int node, int[][] isConnected, boolean[] visit) {
         visit[node] = true;
         for (int i = 0; i < isConnected.length; i++) {
