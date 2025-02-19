@@ -10,11 +10,11 @@ import java.util.*;
 
 class Node {
     int data;
-    Node left, right;
+    Node left, right, next;
 
     Node(int item) {
         data = item;
-        left = right = null;
+        left = right = next = null;
     }
 }
 
