@@ -7,7 +7,7 @@ Link: https://leetcode.com/problems/total-cost-to-hire-k-workers/description/
 2462. Total Cost to Hire K Workers
 Topic: Priority Queue
  */
-public interface L52_Medium2462_Total_Cost_to_Hire_K_Workers {
+public class L53_Medium2462_Total_Cost_to_Hire_K_Workers {
     // Approach: 1 Priority Queue
     public static long totalCost(int[] costs, int k, int candidates) {
         // The worker with the lowest cost has the highest priority, if two players has the
