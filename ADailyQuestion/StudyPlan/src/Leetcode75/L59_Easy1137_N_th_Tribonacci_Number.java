@@ -1,10 +1,10 @@
-package M02_February2025;
+package Leetcode75;
 /*
 Link: https://leetcode.com/problems/n-th-tribonacci-number/description/
 1137. N-th Tribonacci Number
 Approach: Better Dynamic Programming (Bottom Up)
  */
-public class L250227_Easy1137_N_th_Tribonacci_Number {
+public class L59_Easy1137_N_th_Tribonacci_Number {
     public int tribonacci(int n) {
         if (n < 3) {
             return n > 0 ? 1 : 0;
