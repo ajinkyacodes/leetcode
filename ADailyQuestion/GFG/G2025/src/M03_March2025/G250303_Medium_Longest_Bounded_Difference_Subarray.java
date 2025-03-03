@@ -1,5 +1,11 @@
 package M03_March2025;
 
+/*
+Link: https://www.geeksforgeeks.org/problems/longest-bounded-difference-subarray/1
+Longest Bounded-Difference Subarray
+ */
+
+import java.util.*;
 public class G250303_Medium_Longest_Bounded_Difference_Subarray {
     public ArrayList<Integer> longestSubarray(int[] arr, int x) {
         Deque<Integer> minQ = new ArrayDeque<>(), maxQ = new ArrayDeque<>();
