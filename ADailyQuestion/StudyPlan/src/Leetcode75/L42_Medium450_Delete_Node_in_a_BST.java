@@ -4,6 +4,7 @@ Link: https://leetcode.com/problems/delete-node-in-a-bst/description/
 450. Delete Node in a BST
  */
 
+/*
 // Definition for a binary tree node.
 class TreeNode {
      int val;
@@ -17,8 +18,9 @@ class TreeNode {
          this.right = right;
      }
 }
+ */
 
-public class L39_Medium450_Delete_Node_in_a_BST {
+public class L42_Medium450_Delete_Node_in_a_BST {
     /*
   One step right and then always left
   */
