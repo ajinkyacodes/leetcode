@@ -4,6 +4,7 @@ package M03_March2025;
 Link: https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/
 3108. Minimum Cost Walk in Weighted Graph
  */
+import java.util.*;
 public class L250320_Hard3108_Minimum_Cost_Walk_in_Weighted_Graph {
     // Approach 3: Depth-First Search (DFS)
     public int[] minimumCost(int n, int[][] edges, int[][] queries) {
