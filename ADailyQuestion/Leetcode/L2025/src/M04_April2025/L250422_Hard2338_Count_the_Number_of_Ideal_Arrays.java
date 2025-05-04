@@ -3,6 +3,7 @@ package M04_April2025;
 Link: https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/
 2338. Count the Number of Ideal Arrays
  */
+import java.util.*;
 public class L250422_Hard2338_Count_the_Number_of_Ideal_Arrays {
     static int MOD = 1000000007;
     static int MAX_N = 10010;
@@ -11,7 +12,7 @@ public class L250422_Hard2338_Count_the_Number_of_Ideal_Arrays {
     static int[] sieve = new int[MAX_N]; // Minimum prime factor
     static List<Integer>[] ps = new List[MAX_N]; // List of prime factor counts
 
-    public Solution() {
+    public L250422_Hard2338_Count_the_Number_of_Ideal_Arrays() {
         if (c[0][0] == 1) {
             return;
         }
