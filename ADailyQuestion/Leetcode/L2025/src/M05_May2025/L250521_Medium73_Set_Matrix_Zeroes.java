@@ -4,7 +4,7 @@ Link: https://leetcode.com/problems/set-matrix-zeroes/description/
 73. Set Matrix Zeroes
  */
 import java.util.*;
-public class L2505211_Medium73_Set_Matrix_Zeroes {
+public class L250521_Medium73_Set_Matrix_Zeroes {
     public void setZeroes(int[][] matrix) {
         int R = matrix.length;
         int C = matrix[0].length;
