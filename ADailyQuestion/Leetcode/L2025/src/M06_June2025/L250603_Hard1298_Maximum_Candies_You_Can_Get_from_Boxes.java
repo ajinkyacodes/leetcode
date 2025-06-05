@@ -4,7 +4,7 @@ Link: https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/descr
 1298. Maximum Candies You Can Get from Boxes
  */
 import java.util.*;
-public class L2506603_Hard1298_Maximum_Candies_You_Can_Get_from_Boxes {
+public class L250603_Hard1298_Maximum_Candies_You_Can_Get_from_Boxes {
     // Approach: Breadth-First Search
     public int maxCandies(
             int[] status,
