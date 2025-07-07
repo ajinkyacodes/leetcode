@@ -2,7 +2,7 @@ package Applications;
 
 import java.util.Scanner;
 
-public class Easy_EvenOdd {
+public class EvenOdd {
     public static int checkEvenOdd(int num) {
         if((num & 1) == 1){
             return 1;
