@@ -1,4 +1,4 @@
-package M07_July2025.L250719_Medium1233;
+package M07_July2025;
 /*
 Link: https://leetcode.com/problems/word-squares/description/
 425. Word Squares
