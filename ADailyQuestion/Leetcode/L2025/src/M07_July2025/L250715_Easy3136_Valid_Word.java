@@ -3,7 +3,7 @@ package M07_July2025;
 Link: https://leetcode.com/problems/valid-word/description/
 3136. Valid Word
  */
-public class L251715_Easy3136_Valid_Word {
+public class L250715_Easy3136_Valid_Word {
     public boolean isValid(String word) {
         if (word.length() < 3) {
             return false;

@@ -4,7 +4,7 @@ Link: https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/descr
 1233. Remove Sub-Folders from the Filesystem
  */
 import java.util.*;
-public class _Remove_SubFolders_from_the_Filesystem {
+public class L250719_Medium1233_Remove_SubFolders_from_the_Filesystem {
     // Approach: Sorting
     public List<String> removeSubfolders(String[] folder) {
         // Sort the folders alphabetically
